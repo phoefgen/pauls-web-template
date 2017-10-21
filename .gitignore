@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Web and stuff
+node_modules/
+.DS_STORE
+*.swp
